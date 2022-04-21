@@ -28,7 +28,6 @@ class HomePage extends StatelessWidget {
                   color: Colors.deepOrange,
                 )
               ),
-              onTapLink: ,
             );
           }
           return const Center(child: CircularProgressIndicator());
